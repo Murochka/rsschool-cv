@@ -25,7 +25,7 @@
 ## Courses
 |  |  | 
 | ------ | ------ | 
-|2022|"React",Udemy|
+|2022|"React", Udemy|
 |2021|"WEB Developer 2021", Udemy|
 |2020|"Web-design and design of mobile applications", IT-Academy |
 |2020|English, Streamline |
