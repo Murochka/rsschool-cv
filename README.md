@@ -1,1 +1,1 @@
-# https://Murochka.github.io/rsschool-cv/blob/gh-pages/cv
+# https://Murochka.github.io/rsschool-cv/cv.md
