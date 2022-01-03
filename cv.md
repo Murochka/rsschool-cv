@@ -9,7 +9,7 @@
  ## Experience
  |  |  |
 | ------ | ------ |
-|  August - November 2020  | ***IT Academy, student*** |
+| August - November 2020  | ***IT Academy, student*** |
 | 2018 - present  | ***Индивидуальный предприниматель*** |
 |  | marketing research using neuroequipment (eye-tracker, EEG)  |
 | 2017 - 2018 | ***LLC "ADU place"***  |
